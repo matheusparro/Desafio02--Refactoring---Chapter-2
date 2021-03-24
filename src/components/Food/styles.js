@@ -53,7 +53,6 @@ export const Container = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     padding: 20px 30px;
     background: #e4e4eb;
     border-radius: 0px 0px 8px 8px;
